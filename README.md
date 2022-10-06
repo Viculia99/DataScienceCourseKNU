@@ -1,2 +1,3 @@
-DataScienceCourseKNU
-A Victoria Rymchuk repository for Applied Analytics
+DataScienceCourseKNU_Victoria Rymchuk
+
+A repository for Applied Analytics
